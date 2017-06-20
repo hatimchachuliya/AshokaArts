@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ashoka Arts</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="intro">Ashoka Arts and HandiCrafts  resides in the beautiful "City of Lakes" Udaipur  Rajasthan,famous for its beautiful Lakes,Gardens,Heritage Hotels.Ashoka Arts is the Udaipur\'s leading Handicrafts Merchants.The Merchants manifacture artwork and various handicrafts products.Their manifacturing jems include famous "Rajasthani Paintings",Wooden and Metal Artworks, Rajasthani Bandhage style Cushion coves,wall hangings and many more</string>
+    <string name="address">Address:  </string>
+    <string name="addressD">339, \'Ashoka Arts and Art School \', Gangaur Ghat Marg, Udaipur, Rajasthan 313001</string>
+
+    <string name="phone">Phone :</string>
+
+    <string name="phoneno">+91-99299 99353</string>
+    <string name="ownern">Akshay Mehta</string>
+    <string name="owner">Owner: </string>
+
+
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.internship">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ashoka"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ashoka"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Main2Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main3Activity" />
+        <activity
+            android:name=".collages"
+            android:label="Cushion covers" />
+        <activity
+            android:name=".Handicrafts"
+            android:label="Artefacts" />
+        <activity
+            android:name=".About"
+            android:label="About" />
+        <activity
+            android:name=".Contact"
+            android:label="Contact" />
+    </application>
+
+</manifest>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item
+        android:id="@+id/paint"
+        android:title="Paintings"/>
+
+    <item
+        android:id="@+id/covers"
+        android:title="Cushion Covers"/>
+
+    <item
+        android:id="@+id/artifacts"
+        android:title="Artifacts"/>
+
+
+</group>
+
+    <group>
+    <item
+        android:id="@+id/cont"
+        android:title="Contact"/>
+
+    <item
+        android:id="@+id/abut"
+        android:title="About"/>
+
+
+
+
+</group>
+
+
+</menu>
